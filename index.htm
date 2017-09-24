@@ -1,0 +1,43 @@
+<html>
+   <head>
+      <title>SmartLight</title>
+       <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+       <style>
+           .button {
+            background-color: #008CBA;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            font-family: "Arial", "Helvetica";
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 42px;
+            margin: 4px 2px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            }
+            .button:hover {
+            background-color: white;
+            color: black;
+            }
+        </style>
+   </head>
+   
+   <body>
+       <button name="on" id="on" class="button">On</button>
+       <button name="off" id="off" class="button">Off</button>
+            <script>
+                $('#on').click(function(){
+                    $.post('/on')
+                    $('#imgLight').attr('src','lightOn.jpg');
+                });
+                $('#off').click(function(){
+                    $.post('/off')
+                    $('#imgLight').attr('src','lightOff.jpg');
+                });
+            </script>
+       
+   </body>
+</html>

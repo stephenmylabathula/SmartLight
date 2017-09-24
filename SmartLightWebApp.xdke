@@ -1,0 +1,92 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1482820538000,
+        "modified": 1482820538000,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1482820538000,
+        "modified": 1482820538000,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1482820538000,
+        "modified": 1482820538000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "SmartLightWebApp.xdk": {
+        "previousModTime": 1482820539000,
+        "modified": 1482820539000,
+        "seen": true,
+        "name": "SmartLightWebApp.xdk"
+      },
+      "SmartLightWebApp.xdke": {
+        "previousModTime": 1492313894000,
+        "modified": 1492313894000,
+        "seen": true,
+        "name": "SmartLightWebApp.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1482820538000,
+        "modified": 1482820538000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "index.htm": {
+        "previousModTime": 1482901478000,
+        "modified": 1482901478000,
+        "seen": true,
+        "name": "index.htm"
+      },
+      "main.js": {
+        "previousModTime": 1492313932000,
+        "modified": 1492313932000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1482820538000,
+        "modified": 1482820538000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1482820539000,
+        "modified": 1482820539000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "lightOff.jpg": {
+        "previousModTime": 1482876367000,
+        "modified": 1482876367000,
+        "seen": true,
+        "name": "lightOff.jpg"
+      },
+      "lightOn.jpg": {
+        "previousModTime": 1482876334000,
+        "modified": 1482876334000,
+        "seen": true,
+        "name": "lightOn.jpg"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1492313934074
+      }
+    }
+  }
+}

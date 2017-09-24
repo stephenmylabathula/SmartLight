@@ -1,0 +1,38 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "creationData": {
+      "projectTypeName": "com.intel.xdk.projecttype.iotapp",
+      "src": "iotapp/iotapp-template-blank-iot/sample.zip",
+      "projectGuid": "ae1f68f4-56c4-4338-9f56-ef9027860049",
+      "lastModifiedDate": 1482820539225,
+      "creationDate": 1482820538100
+    },
+    "sourceDirectory": "",
+    "cordovaPluginsDirectory": "plugins",
+    "startFile": "main.js",
+    "projectTags": [],
+    "projectFiles": {},
+    "projectDirectories": {
+      "iot/xdk": {
+        "settings": {
+          "project": {
+            "XDK-generated": "true"
+          }
+        }
+      },
+      "xdk": {
+        "settings": {
+          "project": {
+            "XDK-generated": "true"
+          }
+        }
+      }
+    },
+    "libraries": [],
+    "cordovaPlugins": [],
+    "serviceMethods": [],
+    "buildConfigurations": {},
+    "testDirectory": "test"
+  }
+}
